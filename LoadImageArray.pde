@@ -1,6 +1,4 @@
 
-import processing.sound.*;
-
 final int DISPLAY_TIME = 100;
 int lastTime;
 
