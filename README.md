@@ -1,5 +1,5 @@
 # Doodle_Keyboard
-<html>
+<!DOCTYPE html>
 <html>
 <head>
 <script src="processing.js"></script>
