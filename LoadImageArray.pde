@@ -1,3 +1,7 @@
+<html>
+<head>
+<title>Hello Web - Processing.js Test</title>
+<script src="processing.js"></script>
 import processing.sound.*;
 
 final int DISPLAY_TIME = 100;
@@ -743,3 +747,8 @@ if (key == 'z' || key == 'Z') {
     counterZ = 0;
 }
 }
+
+<body>
+<canvas data-processing-sources="LoadImageArray.pde"></canvas>
+</body>
+</html>
